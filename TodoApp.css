@@ -1,0 +1,8 @@
+.todo-app {
+    text-align: left;
+  }
+  
+  .task-list li .task-text {
+    word-wrap: break-word;
+  }
+  
